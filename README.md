@@ -15,15 +15,26 @@ Neumerus Argument present in here
 All Flags shown in here.
 
 
-#######The Flags Starts Here ######
-Type:
-	apman [MainFlag] [Working Instructable Flag] [yes/no Flag] [Installable App name Flag]
-MainFlag:
-	s  -- for all apt package install, listing, update etc.
-	d  -- show the dist info
-	el -- log info
-	ac -- configuration of apt
-Working Instructable Flag:
+
+
+	Type:	
+
+		apman [MainFlag] [Working Instructable Flag] [yes/no Flag] [Installable App name Flag]
+
+
+	for MainFlag:
+	
+		s  -- for all apt package install, listing, update etc.
+		d  -- show the dist info
+		el -- log info
+		ac -- configuration of apt
+
+
+
+
+	Working Instructable Flag:
+	
+	
 	for s:
 		lu    -- used for listed upgradeble program
 		u     -- used for update
@@ -34,8 +45,8 @@ Working Instructable Flag:
 		rr    -- used for fully removed unwanted
 		r     -- used for removing unwanted program
 		sr    -- used for removing unwanted program fully
-
-
+		
+		
 	for d: 
 		a     -- used for full system kernel info
 		n     -- used for neofetch show
