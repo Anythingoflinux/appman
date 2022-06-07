@@ -69,7 +69,6 @@ All Flags shown in here.
 		sl    -- used for showing content of log
 		rl    -- used for removing log from $log
 
-				
-		
+I uploaded two type of this command one is encrypted and another is open	
 		
 		
