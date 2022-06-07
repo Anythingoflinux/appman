@@ -14,6 +14,8 @@ Neumerus Argument present in here
 
 All Flags shown in here.
 
+
+#######The Flags Starts Here ######
 Type:
 	apman [MainFlag] [Working Instructable Flag] [yes/no Flag] [Installable App name Flag]
 MainFlag:
